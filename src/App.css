@@ -4,3 +4,19 @@
   padding: 2rem;
   text-align: center;
 }
+
+button {
+  margin-bottom: 10px;
+}
+
+img {
+  margin: 10px;
+  border: 2px black solid;
+  width: 200px;
+}
+
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
