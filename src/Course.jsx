@@ -12,7 +12,6 @@ const courseMap = {
     Java:Java_img
 }
 
-// eslint-disable-next-line react/prop-types
 function Course({courseName}) {
     return (
         <>
